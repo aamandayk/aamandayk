@@ -1,6 +1,8 @@
 - 👋 Olá, eu sou a estudante Amanda 
 - 📜 2/3 Curso Técnico em Desenvolvimento de Sistemas - Colégio Estadual Presidente Kennedy.
 - 💻 3/3 curso Técnico em Informática e Língua Inglesa.
+- 🖱 Prefêrencia em Introdução a Computação.
+- 🎧 No tempo livre, gosto de ouvir músicas.
 <div align= "center">
   
   ### Linguagens:
